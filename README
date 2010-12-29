@@ -1,7 +1,11 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=3382
 
+A custom text object for selecting ruby blocks.
+
 Depends on vimscript #2100, which provides a framework for creating custom
 text objects.
+
+Also requires that matchit.vim vimscript #39 is enabled.
 
 # Usage #
 
